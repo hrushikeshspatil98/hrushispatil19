@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hrushispatil19
 - 👀 I’m interested in Java Full Stack.
-- 🌱 I’m currently learning React, Spring Boot
+- 🌱 I’m currently learning Spring Boot, MongoDB and React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 
 <!---
 hrushispatil19/hrushispatil19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
