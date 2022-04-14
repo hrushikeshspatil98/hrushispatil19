@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hrushispatil19
-- 👀 I’m interested in Java Full Stack.
-- 🌱 I’m currently learning Spring Boot, MongoDB and React
+- 👋 Hi, I’m Hrushikesh
+- 👀 I’m interested in Java Full Stack Development.
+- 🌱 I’m currently learning MongoDB, Spring Boot and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
